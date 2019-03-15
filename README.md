@@ -11,5 +11,5 @@ This notebook includes below:
 4. Final Model
 5. Conclusion
 
-The final model obtains **96.96% (Top 5%)** accuracy score on Kaggle.
+The final model obtains **96.96% (1st, Top 3%)** accuracy score on Kaggle.
 
